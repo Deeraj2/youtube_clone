@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Youtube Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be found on Netlify (https://youtubecloneapp1.netlify.app/).
 
 ## Available Scripts
 
