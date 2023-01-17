@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #000;
 }
 
 a {
@@ -60,6 +61,18 @@ a {
   margin: 10px 0px;
   border-radius: 20px;
   transition: all 0.3s ease;
+}
+
+.video-container {
+  height: 80vh;
+  width: 90%;
+  margin: 10px auto;
+  overflow-y: scroll;
+  padding: 20px;
+}
+
+.video-container::-webkit-scrollbar {
+  display: none;
 }
 
 @media screen and (max-width: 900px) {
